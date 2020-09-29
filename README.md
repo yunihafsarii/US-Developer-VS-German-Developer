@@ -4,7 +4,12 @@ The obejctive of this project is to conduct Exploratory Data Analysis and find t
 
 Data is obtained from [here](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey)
 
-The most important findings 
+What can you find from this project: 
+1. Exploratory Data Analysis 
+2. Data Cleaning 
+3. Outlier Removal 
+
+## The most important findings 
 
 ### Finding 1
 
